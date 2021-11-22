@@ -1,1 +1,12 @@
-@import "semantic-ui-css/semantic.css"
+@import "semantic-ui-css/semantic.css";
+
+.list {
+    padding: 1rem;
+    width: 100%;
+    height: 10rem;
+    border: 0.1rem solid grey;
+    overflow: auto;
+    list-style: none;
+    font-size: 1.25 rem;
+    margin-bottom: 0.25 rem;
+  }
